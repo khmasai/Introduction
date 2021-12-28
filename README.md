@@ -6,10 +6,12 @@ I am a Software Engineer from India. I am interested in, write about, and develo
 
 ⚡ Languages and Tools
 ------------------------------------------------------------------------------------------------------------------------------------------------
-- JavaScript,HTML5,CSS
-- Bootstrap React
+- ReactJS
+- JavaScript
+- HTML5/CSS
+- Bootstrap
 - Heroku
-- JSON Git
+- Git
 
 📬 Get in touch
 ------------------------------------------------------------------------------------------------------------------------------------------------
